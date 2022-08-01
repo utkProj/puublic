@@ -1,1 +1,1 @@
-# puublic
+# public
